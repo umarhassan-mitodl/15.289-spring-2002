@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ]
+  ],
+  "legacy_uid": "064289c7-3471-6ed5-5099-74ebb5e9d606",
+  "instructors": {
+    "content": [
+      "99653896-5f8a-654c-926f-ded8a482cd5c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1523eca8-5e6d-d9cd-37dd-50970bef6aeb",
+    "website": "15-289-communication-skills-for-academics-spring-2002"
+  },
+  "course_title": "Communication Skills for Academics",
+  "course_description": "Your success as an academic will depend heavily on your ability to communicate to fellow researchers in your discipline, to colleagues in your department and university, to undergraduate and graduate students, and perhaps even to the public at large. Communicating well in an academic setting depends not only on following the basic rules that govern all good communication (for example, tailoring the message to meet the needs of a specific audience), but also on adhering to the particular norms of academic genres.\n\nThe purpose of this course, then, is threefold. First, the course will acquaint you with guidelines that will help you create well-crafted academic communication. Second, it will give you the opportunity to practice your communication skills and to receive extensive feedback from your colleagues and from me.\u00a0You will write and/or revise an article manuscript or conference paper, present a conference paper or job talk, write a manuscript peer review, and engage in various other communication exercises. The article and talk, which are the major assignments of the course, will be based on material from your own doctoral studies. Third, the course will provide an opportunity for you to learn about professional norms for a range of activities that surround the academic enterprise, including, for example, the scholarly publication process and the job search process.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.289",
+  "course_image_thumbnail": {
+    "content": "11c7803b-4e47-64f8-4471-e138c091cadb",
+    "website": "15-289-communication-skills-for-academics-spring-2002"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "8f4f5c1d-fb02-48c5-b459-314d842cd4a5",
+  "site_short_id": "15.289-spring-2002",
+  "site_url_path": "courses/15-289-communication-skills-for-academics-spring-2002",
+  "title": "Course Metadata"
+}
