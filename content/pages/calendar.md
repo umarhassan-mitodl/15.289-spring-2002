@@ -38,11 +38,11 @@ Delivering Conference Papers Workshop: Introducing Your Research Interests
 
 {{< tdclose >}}{{< tdopen >}}
 
-Donald, Bruce Randall. "{{% resource_link "c9de264e-391d-4869-9de7-f4e462e76e3a" "How to Give a Good Talk" %}}."
+Donald, Bruce Randall. "[How to Give a Good Talk](http://www.cs.duke.edu/brd/Teaching/Previous/Animation/giving-a-talk.html)."
 
-Edwards, Paul. "How to Give a Talk: Changing the Culture of Academic Public Speaking." ({{% resource_link "811c35ae-d2de-41e7-9d47-c76c9f3450ad" "PDF" %}})
+Edwards, Paul. "How to Give a Talk: Changing the Culture of Academic Public Speaking." ([PDF](http://pne.people.si.umich.edu/PDF/howtotalk.pdf))
 
-"{{% resource_link "6f0eaad0-ca6f-4016-910f-66f717cd4642" "Creating a Poster Using MSPowerPoint" %}}."
+"[Creating a Poster Using MSPowerPoint](http://faculty.washington.edu/robinet/poster.html)."
 
 {{< tdclose >}}{{< tdopen >}}
 Prepare a 2-3 minute oral summary of your research interests aimed at other students in the class
@@ -90,13 +90,13 @@ Gans and Shepherd. "How Are the Mighty Fallen:…"
 
 Teaching note. "Writing Peer Reviews of Manuscripts."
 
-{{% resource_link "757ff602-cdba-40e4-98fc-89343ec831a1" "*AMJ Reviewer Guidelines*" %}}
+[*AMJ Reviewer Guidelines*](http://aom.org/amj/)
 
-Lee, Allen. "{{% resource_link "32233c15-21a6-48e8-b3d3-5f73ac40509e" "*Reviewing a Manuscript for Publication*" %}}."
+Lee, Allen. "[*Reviewing a Manuscript for Publication*](http://www.people.vcu.edu/~aslee/referee.htm)."
 
 Optional: Cummings and Frost, pp. 13-43, 151-202.
 
-Optional: Allen Lee, {{% resource_link "2000e4d5-d289-4d80-9c0f-5a2cfb751e5b" "Editor's Comments" %}}, MISQ 23, No. 4 (a case study of the editorial process for one article).
+Optional: Allen Lee, [Editor's Comments](http://misq.org/misq/downloads/download/editorial/45/), MISQ 23, No. 4 (a case study of the editorial process for one article).
 
 {{< tdclose >}}{{< tdopen >}}
 One-page analysis of target audience/journal for written assignment
