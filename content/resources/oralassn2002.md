@@ -5,8 +5,6 @@ description: Assignment to give a 15-20 minute presentation, with visual aids, o
 file: /courses/15-289-communication-skills-for-academics-spring-2002/bb34a577694dc249e62efc6e391beec2_oralassn2002.pdf
 file_size: 66354
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

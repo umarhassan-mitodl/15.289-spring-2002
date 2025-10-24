@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on objectives, meeting times, who the course is intended for, grading, practicing
   skills, receiving feedback, and the course textbooks.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
